@@ -17,4 +17,4 @@ Virtual Internship experience on Data Analysis of Sprocket Central Pty Ltd's cus
 
 ### Data Analysis and Visualization
 <p>Created Tableau Dashboards and Stories to present findings</p>
-Link : 
+Link : https://public.tableau.com/views/Task2_16923754154830/DataAnalysis-KPMGForage?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
